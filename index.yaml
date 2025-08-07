@@ -3,7 +3,16 @@ entries:
   sectrailcmissuer:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-08-06T10:21:23.102111+03:00"
+    created: "2025-08-07T13:20:21.962051+03:00"
+    description: SecTrailCMIssuer cert-manager external issuer Helm chart
+    digest: 536ecc0db1dc568cad8ebb90b0bc6be98640d9c66d558e3684161e67706fdb2d
+    name: sectrailcmissuer
+    urls:
+    - https://bntpro-dev.github.io/sectrailcmissuer-charts/sectrailcmissuer-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-08-07T13:20:21.961783+03:00"
     description: SecTrailCMIssuer cert-manager external issuer Helm chart
     digest: b76c11a5f90ace1e151db9ba6b58a485098467c43467828f78a4a338efdcdfd9
     name: sectrailcmissuer
@@ -12,11 +21,11 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-08-06T10:21:23.101497+03:00"
+    created: "2025-08-07T13:20:21.961405+03:00"
     description: SecTrailCMIssuer cert-manager external issuer Helm chart
     digest: 633ae99aadb5ccedeaefa2b11ce184240e995686194e3ad178aeda89824dc00a
     name: sectrailcmissuer
     urls:
     - https://bntpro-dev.github.io/sectrailcmissuer-charts/sectrailcmissuer-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-06T10:21:23.099914+03:00"
+generated: "2025-08-07T13:20:21.959635+03:00"
